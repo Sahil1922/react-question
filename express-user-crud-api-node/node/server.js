@@ -1,6 +1,7 @@
 //go into express-user-crud-api-node/node
 //npm i
 //node server.js
+//open browser: http://localhost:3000/users
 const express = require("express");
 
 const app = express();
