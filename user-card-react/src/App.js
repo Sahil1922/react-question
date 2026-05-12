@@ -1,3 +1,7 @@
+//go into user-card-react
+//npm i
+//npm start
+
 import React from "react";
 import UserCard from "./components/UserCard"
 import "./App.css";
