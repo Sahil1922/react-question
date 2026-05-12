@@ -1,3 +1,5 @@
+//go into express-notes-api-node/node
+//npm i
 //run server: node server.js
 //open browser and paste: http://localhost:3000/notes
 
