@@ -1,3 +1,6 @@
+//go into express-user-crud-api-node/node
+//npm i
+//node server.js
 const express = require("express");
 
 const app = express();
