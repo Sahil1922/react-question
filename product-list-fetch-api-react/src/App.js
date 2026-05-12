@@ -1,3 +1,6 @@
+//go intio product-list-crud-api-node
+//npm i
+//npm start
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import ProductCard from "./Product";
@@ -12,7 +15,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("http://10.5.1.238:3000/itlab/minor2/product.json")
+      .get("http://10.5.1.238:3000/itlab/minor2/product.json") //change this with given link 
       .then((response) => {
         // console.log("Full response:", response);
         // console.log("Response data:", response.data);
